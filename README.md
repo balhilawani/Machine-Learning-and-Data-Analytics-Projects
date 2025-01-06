@@ -1,4 +1,4 @@
-Project 1: Applied the K-Nearest Neighbors (KNN) and Decision Trees (DT) model on various datasets.
+Project 1: Applied the K-Nearest Neighbors (KNN) and Decision Trees (DT) on multiple datasets, achieving up to 92% accuracy (5% above baseline).
 
 Project 2: Developed and implemented an anomaly detection algorithm utilizing a Gaussian Mixture Model (GMM).
 
